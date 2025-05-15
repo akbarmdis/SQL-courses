@@ -1,7 +1,7 @@
-# SQL-courses
-SQL Courses - MAAD Academy
+
+SQL Courses - MAAB Academy
 Course Overview
-This repository contains all my homework assignments, exercises, and training materials from the SQL courses I'm taking at MAAD Academy. The courses cover fundamental and advanced SQL concepts for database management and querying.
+This repository contains all my homework assignments, exercises, and training materials from the SQL courses I'm taking at MAAB Academy. The courses cover fundamental and advanced SQL concepts for database management and querying.
 
 
 How to Use This Repository
